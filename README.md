@@ -1,16 +1,31 @@
-# craftconnect
+# CraftConnect
+A Flutter & Firebase Mobile Application Empowering Rural Artisans Through Digital Commerce
 
-A new Flutter project.
+## About the Project
+CraftConnect is an Android application developed using Flutter and Firebase to empower rural artisans by providing a platform to showcase and sell handmade products directly to customers.
+The application simplifies product management with voice-to-text product uploads, enables secure authentication and payments, and provides personalized product recommendations along with smart delivery suggestions.
 
-## Getting Started
+## Features
+Secure User Authentication
+Separate Dashboards for Artisans & Buyers
+Product Upload & Management
+Voice-to-Text Product Upload
+Browse & Search Products
+Customized Order Placement
+Personalized Product Recommendations
+Smart Delivery Suggestions
+Secure Online Payments
+Automatic Invoice Generation
 
-This project is a starting point for a Flutter application.
+## Application Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+## Future Enhancements
+AI-powered product recommendations
+Live chat between buyers and artisans
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Developer
+Harshitha S
+GitHub: https://github.com/HarshthaS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is developed for educational and portfolio purposes.

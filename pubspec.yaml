@@ -1,0 +1,48 @@
+name: craftconnect
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.9.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_generative_ai: ^0.2.0
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+
+  cloud_firestore: ^5.6.12
+  connectivity_plus: ^6.0.3
+  firebase_storage: ^12.1.2
+  image_picker: ^1.1.2
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.3.4
+  speech_to_text: ^7.3.0
+  http: ^1.2.0
+  geocoding: ^2.0.5
+  geolocator: ^14.0.2
+  permission_handler: ^11.3.1
+  flutter_stripe: ^10.0.0
+  uuid: ^4.5.2
+  pdf: ^3.11.3
+  printing: ^5.14.2
+  path_provider: ^2.1.5
+  url_launcher: ^6.2.4
+  dio: ^5.4.0
+  open_filex: ^4.7.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/NotoSans-Regular.ttf
+

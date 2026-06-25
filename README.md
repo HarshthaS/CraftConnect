@@ -7,6 +7,7 @@ The application simplifies product management with voice-to-text product uploads
 
 ## Features
 Secure User Authentication
+
 Separate Dashboards for Artisans & Buyers
 Product Upload & Management
 Voice-to-Text Product Upload
